@@ -1,0 +1,19 @@
+# CCS工程冗余文件忽略
+# 编译生成的文件夹
+Debug/
+Release/
+# 临时缓存文件
+*.log
+*.bak
+*.tmp
+# CCS配置冗余文件
+.cdtproject
+.c9builder
+.texlipse
+# 下载调试相关文件
+*.out
+*.hex
+*.bin
+# 系统自动生成的临时文件
+.DS_Store
+Thumbs.db

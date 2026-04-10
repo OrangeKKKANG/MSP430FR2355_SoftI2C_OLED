@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVariant value="50:Theia-based"/>
+	<ccsVersion value="70.4.0"/>
+	<deviceFamily value="MSP430"/>
+	<executableActions value=""/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=BlinkLED_MSP-EXP430FR2355.projectspec.project"/>
+	<connection value="common/targetdb/connections/TIMSP430-USB.xml"/>
+	<activeTargetConfiguration value="targetConfigs/MSP430FR2355.ccxml"/>
+	<origin value="D:/orange/QianRuShi/Project/MSP430/基础驱动程序/project"/>
+	<filesToOpen value="main.c"/>
+</projectOptions>
